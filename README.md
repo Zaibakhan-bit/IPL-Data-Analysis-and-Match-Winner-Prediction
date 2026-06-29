@@ -83,7 +83,7 @@ Screenshots are available in the `dashboard_screenshots` folder.
 ## Dashboard Preview
 
 ### Overview
-![Overview](dashboard_screenshots/IPL_DASHBOARD.jpeg)
+![](dashboard_screenshots/IPL_DASHBOARD.jpeg)
 
 ### Team Analysis
 ![Team Analysis](dashboard_screenshots/TEAM_ANALYSIS.jpeg)
